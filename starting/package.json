@@ -7,6 +7,6 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "4.1.0",
-    "prompt-sync": "^4.1.7"
+    "prompt-sync": "4.2.0"
   }
 }
